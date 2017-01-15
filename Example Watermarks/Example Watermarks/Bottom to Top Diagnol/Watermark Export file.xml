@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <outputFolderPath>C:\Documents and Settings\admin\My Documents\My Pictures</outputFolderPath>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>100</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>S     A     M     P     L     E
+</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Times New Roman,name=Times New Roman,style=bold,size=67]</font>
+ <color>java.awt.Color[r=255,g=255,b=255]</color>
+ <fill>54</fill>
+ <positionSelected>Bottom-Top Diognal</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>0</Hspace>
+<Vspace>0</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

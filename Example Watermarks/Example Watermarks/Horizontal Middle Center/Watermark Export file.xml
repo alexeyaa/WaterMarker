@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>100</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>P   R   O   T   E   C   T   E   D
+</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Calibri,name=Calibri,style=bold,size=53]</font>
+ <color>java.awt.Color[r=255,g=204,b=51]</color>
+ <fill>80</fill>
+ <positionSelected>Horizontal Middle Center</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>0</Hspace>
+<Vspace>0</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

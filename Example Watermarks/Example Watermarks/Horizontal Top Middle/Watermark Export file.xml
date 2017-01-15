@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>100</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>jaya jaya rGauvaIr samqi</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Shivaji02,name=Shivaji02,style=bold,size=33]</font>
+ <color>java.awt.Color[r=255,g=102,b=51]</color>
+ <fill>100</fill>
+ <positionSelected>Horizontal Top Center</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>0</Hspace>
+<Vspace>15</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>100</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>PROTECTED
+</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Arial,name=Arial,style=bold,size=45]</font>
+ <color>java.awt.Color[r=255,g=255,b=255]</color>
+ <fill>64</fill>
+ <positionSelected>Vertical Middle Center</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>0</Hspace>
+<Vspace>0</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>100</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>All the birds have flown up and gone;
+A lonely cloud floats leisurely by.
+We never tire of looking at each other -
+Only the mountain and I.  </textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Arial,name=Arial,style=bold,size=41]</font>
+ <color>java.awt.Color[r=204,g=204,b=204]</color>
+ <fill>83</fill>
+ <positionSelected>Horizontal Middle Center</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>0</Hspace>
+<Vspace>0</Vspace>
+</watermarkerProperties>
+  <watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>To My Friend</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Arial Unicode MS,name=Arial Unicode MS,style=bold,size=21]</font>
+ <color>java.awt.Color[r=255,g=153,b=102]</color>
+ <fill>81</fill>
+ <positionSelected>Horizontal Top Left</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>20</Hspace>
+<Vspace>20</Vspace>
+</watermarkerProperties>
+  <watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>From
+Hitesh Sathawane</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Calibri,name=Calibri,style=bold,size=17]</font>
+ <color>java.awt.Color[r=255,g=255,b=204]</color>
+ <fill>82</fill>
+ <positionSelected>Horizontal Bottom Right</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>20</Hspace>
+<Vspace>20</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

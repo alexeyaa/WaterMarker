@@ -1,0 +1,53 @@
+DO NOT TRANSLATE OR LOCALIZE.
+
+%% The following software may be included in this product:  WaterMarker.  Use of any of this software is governed by the terms of the license below: 
+
+ * WaterMarker 
+ * ------------------------------------------
+ *
+ * Copyright (c) 2011 Hitesh Shankarrao Jyoti Sathawane
+ *
+ * For details 
+ * See also  http://simplewatermark.blogspot.com/
+ *
+ * Any party obtaining a copy of these files from the author, directly or
+ * indirectly, is granted, free of charge, a full and unrestricted irrevocable,
+ * world-wide, paid up, royalty-free, nonexclusive right and license to deal
+ * in this software and documentation files (the "Software"), including without
+ * limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
+ * and/or sell copies of the Software, and to permit persons who receive
+ * copies from any such party to do so, with the only requirement being
+ * that this copyright notice remain intact. 
+ */
+
+%% The following software may be included in this product: Oct-Tree Color Quantization.  Use of any of this software is governed by the terms of the license below: 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  Permission is hereby granted, free of charge, to any person obtaining a      %
+%  copy of this software and associated documentation files("Watermarker"),	%
+%  to deal in Watermarker without restriction, including without limitation	%
+%  the rights to use, copy, modify, merge, publish, distribute, sublicense      %
+%  and/or sell copies of Watermarker and to permit persons to whom the     	%
+%  Watermarker is furnished to do so, subject to the following conditions: 	%
+%   										%
+%  The above copyright notice and this permission notice shall be included in   %
+%  all copies or substantial portions of Watermarker.                      	%
+%                                                                               %
+%  The software is provided "as is", without warranty of any kind, express or   %
+%  implied, including but not limited to the warranties of merchantability,     %
+%  fitness for a particular purpose and noninfringement.  In no event shall     %
+%  Hitesh Sathawane be liable for any claim, damages or other liability,	%
+%  whether in an action of contract, tort or otherwise,  arising from,out of 	%
+%  or in connection with Watermarker or the use or other dealings in 		%
+%  Watermarker. 			                                        %
+%                                                                               %
+%  Except as contained in this notice, the name of the Hitesh Sathawane		%
+%  shall not be used in advertising or otherwise to promote the sale, use or    %
+%  other dealings in Watermarker without prior written authorization from  	%
+%  Hitesh Sathawane .				      				%
+%                                                                               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+DISTRIBUTION BY DEVELOPERS.  Subject to the terms and conditions of the Software License Agreement and the obligations, restrictions, and exceptions set forth below, You may reproduce and distribute the portions of Software identified below ("each a Redistributable"), provided that you comply with the following (note that You may be entitled to reproduce and distribute other portions of the Software not defined here as a Redistributable under certain other licenses as described in the THIRDPARTYLICENSEREADME, LICENSE-jai.txt, DISTRIBUTIONREADME-jai.txt,COPYRIGHT-jai.txt,LICENSE-sanselan.txt):
+

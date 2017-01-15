@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <outputFolderPath>C:\Documents and Settings\admin\My Documents\My Pictures</outputFolderPath>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>100</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>SHAPE</watermarkType>
+ <textString>null</textString>
+  <shape>Rectrangle</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>30</shapeWidth>
+ <shapeHeight>1000</shapeHeight>
+ <font>null</font>
+ <color>java.awt.Color[r=255,g=153,b=0]</color>
+ <fill>41</fill>
+ <positionSelected>Top Left</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>35</Hspace>
+<Vspace>0</Vspace>
+</watermarkerProperties>
+  <watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>Hitesh Sathawane
+</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Times New Roman,name=Times New Roman,style=bold,size=26]</font>
+ <color>java.awt.Color[r=255,g=102,b=0]</color>
+ <fill>100</fill>
+ <positionSelected>Vertical Middle Left</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>42</Hspace>
+<Vspace>0</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

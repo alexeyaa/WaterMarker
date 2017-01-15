@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>Loss less</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+<watermarkerProperties>
+  <watermarkType>SHAPE</watermarkType>
+ <textString>null</textString>
+  <shape>Rectrangle</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>1000</shapeWidth>
+ <shapeHeight>35</shapeHeight>
+ <font>null</font>
+ <color>java.awt.Color[r=0,g=0,b=0]</color>
+ <fill>68</fill>
+ <positionSelected>Bottom Left</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>0</Hspace>
+<Vspace>35</Vspace>
+</watermarkerProperties>
+  <watermarkerProperties>
+  <watermarkType>CAPTION</watermarkType>
+ <textString>null</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Arial,name=Arial,style=bold,size=12]</font>
+ <color>javax.swing.plaf.ColorUIResource[r=255,g=255,b=255]</color>
+ <fill>76</fill>
+ <positionSelected>Bottom Left</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>25</Hspace>
+<Vspace>55</Vspace>
+</watermarkerProperties>
+  <watermarkerProperties>
+  <watermarkType>TEXT</watermarkType>
+ <textString>Copyright © 2010 Hitesh Sathawane</textString>
+  <shape>null</shape>
+ <imagePath>null</imagePath>
+ <imageScale>null</imageScale>
+ <shapeWidth>null</shapeWidth>
+ <shapeHeight>null</shapeHeight>
+ <font>java.awt.Font[family=Arial,name=Arial,style=bold,size=16]</font>
+ <color>javax.swing.plaf.ColorUIResource[r=255,g=255,b=255]</color>
+ <fill>67</fill>
+ <positionSelected>Horizontal Bottom Right</positionSelected>
+ <Xposition>0</Xposition>
+ <Yposition>0</Yposition>
+ <Hspace>25</Hspace>
+<Vspace>35</Vspace>
+</watermarkerProperties>
+  </watermarkers>
+</WaterMarker>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+ <WaterMarker>
+ <ImagesProperties>
+ <maxHeight>600</maxHeight>
+ <maxWidth>800</maxWidth>
+ <imageQuality>pdf</imageQuality>
+ </ImagesProperties>
+<watermarkers>
+</watermarkers>
+</WaterMarker>
